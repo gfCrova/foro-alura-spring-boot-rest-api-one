@@ -2,7 +2,7 @@
    <img align="right" src="https://img.shields.io/badge/STATUS-FINALIZADO-darkgreen">
 </h1> <br>
 
-<p align="left">API REST usando Spring. <br>
+<p align="left">API REST con Spring Boot. <br>
 4° Challenge Oracle Next Education - Formación Backend Java | Spring Boot</p><br>
 
 Nuestra API va a centrarse específicamente en los tópicos, y debe permitir a los usuarios:
